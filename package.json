@@ -1,0 +1,11 @@
+{
+  "name": "git-autocomplete-for-mac",
+  "version": "0.1.0",
+  "private": false,
+  "tags": ["git-autocomplete", "mac", "zsh"],
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node main.js" 
+  }
+}
